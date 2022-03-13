@@ -1,0 +1,12 @@
+{
+    "name": "chat-app",
+    "version": "1.0.0",
+    "description": "App Chat ver 1.0.0",
+    "scripts": {
+      "install-server": "cd server && npm i",
+      "install-client": "cd web && npm i",
+      "server-dev": "cd server && npm start",
+      "web-dev": "cd web && npm start"
+    }
+  }
+  
